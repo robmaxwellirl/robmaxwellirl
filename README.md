@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my Profile
 
-<!--
-**robmaxwellirl/robmaxwellirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Rob, from Ireland and will improve on this page later on here.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on automating everything for developers to work with ease.
+- 🌱 I’m currently learning Cloud foundation 
+- 👯 I’m looking to collaborate on standards for automation in enterprises.
+- 🤔 I’m looking for help with how to describe an automation process to improve on.
+- 💬 Ask me about Cloud Foundry, automation.
+- 📫 How to reach me: via twitter, or email.
+- 😄 Pronouns: Irish, Hard working, easily distracted, Independant.
+- ⚡ Fun fact: I've been to all 7 continents and from the bottom of the Grand Canyon to Everest Base Camp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
